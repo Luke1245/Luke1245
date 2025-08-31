@@ -1,3 +1,3 @@
-First year computer science student at Durham University
+Second year computer science student at Durham University
 
 he/him
